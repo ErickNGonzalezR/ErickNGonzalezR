@@ -1,73 +1,128 @@
-# **Portafolio Educativo**
+<div align="center">
 
-¡Bienvenido a mi portafolio! Aquí encontrarás una recopilación de mis proyectos que he realizado durante mi carrera, trabajos realizados y guías de los diferentes lenguajes de programación que he aprendido.
+# 👋 Hola, soy Erick Nicolás González Rojas
 
-## **Sobre Mí**
+### Ingeniero de Software | Backend & Android Developer
+#### 📍 Bogotá, Colombia
 
-Soy un estudiante de Ingeniería de Software en el último semestre de la Universidad Antonio Nariño. Poseo un amplio conocimiento en programación, destacando en lenguajes como Java, JavaScript, CSS, HTML y SQL, así como en ciencia de datos con Python. Además, cuento con experiencia en la metodología ágil Scrum. Soy una persona íntegra, autogestionada, con un alto nivel de autoaprendizaje y habilidades de liderazgo. Mi interés se centra en el desarrollo, diseño, corrección y optimización para garantizar el correcto funcionamiento de las aplicaciones. Disfruto trabajando en equipo, tengo habilidades sólidas en el manejo de relaciones interpersonales, toma de decisiones y resolución de problemas. Poseo un alto sentido de responsabilidad y capacidad para adaptarme a nuevos entornos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-nicolas-gonzalez-rojas/)
+[![Email](https://img.shields.io/badge/Email-erniDev012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erniDev012@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ernidev01.github.io-1a355e?style=for-the-badge&logo=github&logoColor=white)](https://ernidev01.github.io)
 
-## **Habilidades**
+</div>
 
-- Java.
-- JavaScript.
-- Html.
-- Css.
-- Python.
-- Scrum
+---
 
-## **Educación**
+## 🧑‍💻 Sobre mí
 
-- Ingeniería de software en la Universidad Antonio Nariño (en curso).
+Soy Ingeniero de Software graduado **Cum Laude** de la Universidad Antonio Nariño (2025), especializado en desarrollo **backend** y aplicaciones **móviles Android**. Me apasiona construir soluciones que tengan impacto real en las personas.
 
-### **Certificados Todos A La U**
+Mi proyecto de grado **Redscate** — una app Android para localización de rescatistas sin internet — fue reconocido con **Tesis Meritoria / Laureada** por su impacto social e innovación técnica.
 
-- Desarrollo full snack básico en la universidad Distrital Fransisco Josè De Caldas. 
-<a href="https://certificados.planestic.udistrital.edu.co/cert/984b682026d1bb60fb36f96417f9966dbaea83b3.pdf">Certificado</a>
+Actualmente trabajo en **TecnoPyme**, desarrollando aplicaciones multiplataforma y soluciones empresariales con Spring Boot, Python y Power BI.
 
-### **Certificados Destacados de Platzi**
-- Curso Profesional de Scrum. 
-<a href="https://platzi.com/p/egonzalez48/curso/1750-scrum/diploma/detalle/">Certificado</a>
-- Curso Profesional de Git y GitHub 
-<a href="https://platzi.com/p/egonzalez48/curso/2405-git-github-appsco/diploma/detalle/">Certificado</a>
-- Curso de Programación Orientada a Objetos: POO. 
-<a href="https://platzi.com/p/egonzalez48/curso/1474-oop/diploma/detalle/">Certificado</a>
-- Curso Básico de Python 
-<a href="https://platzi.com/p/egonzalez48/curso/1937-python-basico/diploma/detalle/">Certificado</a>
-- Curso de Introducción a la Terminal y Línea de Comandos 
-<a href="https://platzi.com/p/egonzalez48/curso/2292-terminal/diploma/detalle/">Certificado</a>
-- Curso de PostgreSQL. 
-<a href="https://platzi.com/p/egonzalez48/curso/1480-postgresql/diploma/detalle/">Certificado</a>
-## **Contacto**
+---
 
-- Telefono: 3118324486.
-- E-mail: nicolo288@gmail.com
-- Linkedin: <a href="https://www.linkedin.com/in/erick-nicolas-gonzalez-rojas-2a47a6252/">Perfil</a>
+## 🛠️ Stack tecnológico
 
-## **Guias**
+**Lenguajes**
 
-### **Guias de Java**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- Descripción: 
-- Enlace al repositorio:<a href="">GitHub.</a>
+**Frameworks y tecnologías**
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### **Guias de JavaScript**
+**Bases de datos**
 
-- Descripción: 
-- Enlace al repositorio: <a href="">GitHub.</a>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+**Herramientas**
 
-### **Guias de Git y GitHub**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
-- Descripción: 
-- Enlace al repositorio: <a href="https://github.com/ErickNGonzalezR/ComandosGit">GitHub.</a>
+**Metodologías**
 
-  
-### **Guias de Python**
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white)
 
-- Descripción: Breve descripción del proyecto.
-- Enlace al repositorio: <a href="https://github.com/ErickNGonzalezR/Python">GitHub.</a>
+---
 
+## 🚀 Proyecto destacado
 
-## **Licencia**
+### 🔴 [Redscate – Radar de Rescatistas en Emergencias](https://github.com/ernidev01/redscate)
+
+> App Android para localización de rescatistas en tiempo real **sin internet**, usando Wi-Fi Direct (red ad-hoc).
+
+- 📡 Radar de proximidad con anillos de distancia (200m → 50m)
+- 🃏 Tarjetas de autoprotección y biblioteca de prevención de incendios
+- 🏆 Reconocido como **Tesis Meritoria / Laureada** · Universidad Antonio Nariño · 2025
+- 🤝 Diseñado con requerimientos reales aportados por la **Cruz Roja**
+
+`Kotlin` `Android` `Wi-Fi Direct` `GPS` `Sin internet`
+
+---
+
+## 💼 Experiencia
+
+**Desarrollador de Software** · TecnoPyme · *2024 – Actualidad*
+> Desarrollo de aplicaciones empresariales multiplataforma, APIs REST con Spring Boot, análisis de datos con Python y Power BI.
+
+---
+
+## 🎓 Formación y logros
+
+| | |
+|---|---|
+| 🎓 | Ingeniería de Software · Universidad Antonio Nariño · 2021–2025 |
+| 🏅 | Grado **Cum Laude** |
+| 📜 | **Tesis Meritoria / Laureada** |
+| 📋 | Registro Profesional: 091132-0794602 CNDC |
+
+---
+
+## 📜 Certificaciones
+
+| Certificación | Plataforma | Año |
+|--------------|-----------|-----|
+| Scrum Profesional | Platzi | 2022 |
+| Git y GitHub | Platzi | 2022 |
+| Java SE – POO y Persistencia de Datos | Platzi | 2022 |
+| PostgreSQL | Platzi | 2022 |
+| Fundamentos de Bases de Datos | Platzi | 2022 |
+| Desarrollo Backend | Platzi | 2023 |
+| Android Studio – Diseño de Interfaces | Platzi | 2023 |
+| Python Básico | Platzi | 2022 |
+| JavaScript Desde Cero | Platzi | 2023 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ernidev01&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ernidev01&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"El código bien escrito no solo funciona — comunica, perdura y transforma."*
+
+</div>
+
 
